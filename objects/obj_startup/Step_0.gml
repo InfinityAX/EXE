@@ -1,0 +1,1 @@
+//manual_window_resizw(irandom(display_get_width()), irandom(display_get_height()), irandom(display_get_width()-window_get_width()), irandom(display_get_height()-window_get_height()));
