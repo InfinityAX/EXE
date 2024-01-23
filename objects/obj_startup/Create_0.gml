@@ -1,7 +1,11 @@
 game_started = start_the_game(false);
 op_font = import_fonts_from_file(true);
 text_alpha = 0;
+text_pos = 720;
 text_tran_in = false;
+play_cont = "PLAY";
+opt_text_in = false;
+
 
 if (!audio_is_playing(snd_bg_aether))
 {
