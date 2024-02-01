@@ -20,6 +20,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Paths","folderPath":"folders/Paths.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Levels","folderPath":"folders/Rooms/Levels.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sequences","folderPath":"folders/Sequences.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shaders","folderPath":"folders/Shaders.yy",},
@@ -27,7 +28,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Levels","folderPath":"folders/Rooms/Levels.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"DEC.ttf","CopyToMask":-1,"filePath":"datafiles/Fonts",},
@@ -47,6 +47,7 @@
     {"id":{"name":"scr_select_control","path":"scripts/scr_select_control/scr_select_control.yy",},},
     {"id":{"name":"snd_bg_aether","path":"sounds/snd_bg_aether/snd_bg_aether.yy",},},
     {"id":{"name":"rm_options","path":"rooms/rm_options/rm_options.yy",},},
+    {"id":{"name":"rm_you_are_not_funny","path":"rooms/rm_you_are_not_funny/rm_you_are_not_funny.yy",},},
     {"id":{"name":"rm_startup","path":"rooms/rm_startup/rm_startup.yy",},},
   ],
   "RoomOrderNodes": [
@@ -54,6 +55,7 @@
     {"roomId":{"name":"rm_options","path":"rooms/rm_options/rm_options.yy",},},
     {"roomId":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},},
     {"roomId":{"name":"rm_levels","path":"rooms/rm_levels/rm_levels.yy",},},
+    {"roomId":{"name":"rm_you_are_not_funny","path":"rooms/rm_you_are_not_funny/rm_you_are_not_funny.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
