@@ -17,8 +17,10 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"Start Menu","order":1,"path":"folders/Sprites/Start Menu.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_selected","order":1,"path":"sprites/spr_selected/spr_selected.yy",},
     {"name":"rm_levels","order":4,"path":"rooms/rm_levels/rm_levels.yy",},
     {"name":"obj_windowsafecheck","order":2,"path":"objects/obj_windowsafecheck/obj_windowsafecheck.yy",},
     {"name":"obj_selector","order":1,"path":"objects/obj_selector/obj_selector.yy",},

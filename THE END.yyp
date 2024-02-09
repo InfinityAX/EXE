@@ -28,6 +28,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Start Menu","folderPath":"folders/Sprites/Start Menu.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"DEC.ttf","CopyToMask":-1,"filePath":"datafiles/Fonts",},
@@ -38,10 +39,12 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"spr_selected","path":"sprites/spr_selected/spr_selected.yy",},},
     {"id":{"name":"scr_game_control","path":"scripts/scr_game_control/scr_game_control.yy",},},
     {"id":{"name":"rm_levels","path":"rooms/rm_levels/rm_levels.yy",},},
     {"id":{"name":"obj_windowsafecheck","path":"objects/obj_windowsafecheck/obj_windowsafecheck.yy",},},
     {"id":{"name":"obj_selector","path":"objects/obj_selector/obj_selector.yy",},},
+    {"id":{"name":"spr_selector","path":"sprites/spr_selector/spr_selector.yy",},},
     {"id":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},},
     {"id":{"name":"obj_startup","path":"objects/obj_startup/obj_startup.yy",},},
     {"id":{"name":"scr_select_control","path":"scripts/scr_select_control/scr_select_control.yy",},},
