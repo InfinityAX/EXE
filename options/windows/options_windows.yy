@@ -6,7 +6,7 @@
   "option_windows_borderless": false,
   "option_windows_company_info": "AX Media",
   "option_windows_copy_exe_to_dest": false,
-  "option_windows_copyright_info": "",
+  "option_windows_copyright_info": "This work is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/",
   "option_windows_description_info": "EXE is a game created for the Carleton University Game Dev Club. EXE tells the story of [PROCESS_ID: 0] exploring the ruins of [ERROR: UNABLE_TO_OBTAIN_SYSTEM_ID]. Waking up with no information on his purpose, he roams around the remaining file directories, encountering many dangers and gaining new abilities. The more [PROCESS_ID: 0] explores, the more he learns about what has happened to [ERROR: UNABLE_TO_OBTAIN_SYSTEM_ID] and who is responsible for it.",
   "option_windows_disable_sandbox": true,
   "option_windows_display_cursor": false,
