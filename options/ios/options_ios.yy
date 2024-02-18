@@ -1,6 +1,6 @@
 {
-  "$GMiOSOptions": "",
-  "%Name": "iOS",
+  "resourceType": "GMiOSOptions",
+  "resourceVersion": "1.3",
   "name": "iOS",
   "option_ios_build_number": 0,
   "option_ios_bundle_name": "com.company.game",
@@ -45,6 +45,4 @@
   "option_ios_team_id": "",
   "option_ios_texture_page": "2048x2048",
   "option_ios_version": "1.0.0.0",
-  "resourceType": "GMiOSOptions",
-  "resourceVersion": "2.0",
 }
