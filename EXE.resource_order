@@ -18,10 +18,13 @@
     {"name":"Start Menu","order":1,"path":"folders/Sprites/Start Menu.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"Anticheat","order":3,"path":"folders/Objects/Anticheat.yy",},
+    {"name":"Anticheat","order":2,"path":"folders/Sprites/Anticheat.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"rm_you_are_not_funny","order":2,"path":"rooms/rm_you_are_not_funny/rm_you_are_not_funny.yy",},
     {"name":"obj_selector","order":1,"path":"objects/obj_selector/obj_selector.yy",},
+    {"name":"snd_cheater_detect","order":1,"path":"sounds/snd_cheater_detect/snd_cheater_detect.yy",},
     {"name":"scr_select_control","order":1,"path":"scripts/scr_select_control/scr_select_control.yy",},
     {"name":"obj_windowsafecheck","order":2,"path":"objects/obj_windowsafecheck/obj_windowsafecheck.yy",},
     {"name":"spr_selector","order":1,"path":"sprites/spr_selector/spr_selector.yy",},
