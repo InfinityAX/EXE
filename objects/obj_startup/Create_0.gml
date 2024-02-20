@@ -15,5 +15,5 @@ if (!audio_is_playing(snd_bg_aether))
 alarm_set(0, 2*game_get_speed(gamespeed_fps));
 
 // Testing
-//audio_stop_all();
-//room_goto(rm_you_are_not_funny);
+audio_stop_all();
+room_goto(rm_you_are_not_funny);
