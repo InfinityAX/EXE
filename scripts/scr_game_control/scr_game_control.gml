@@ -23,29 +23,6 @@ function start_the_game(_reset)
 }
 
 
-// Load main font
-function import_fonts_from_file(_import_grab)
-{
-	static main_font = 0;
-	
-	if (_import_grab)
-	{
-		if (main_font == 0)
-		{
-			font_add_enable_aa(false);
-			main_font = font_add("Fonts/DEC.ttf", 72, true, false, 32, 128);
-		}
-		
-		return main_font;
-	}
-	else
-	{
-		font_delete(main_font);
-		main_font = 0;
-	}
-}
-
-
 // Adjusts the game window automatically
 function auto_window_control()
 {
