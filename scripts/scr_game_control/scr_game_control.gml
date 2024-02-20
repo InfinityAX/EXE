@@ -1,3 +1,4 @@
+// Game started state
 function start_the_game(_reset)
 {
 	static game_start = false;
@@ -22,6 +23,7 @@ function start_the_game(_reset)
 }
 
 
+// Load main font
 function import_fonts_from_file(_import_grab)
 {
 	static main_font = 0;
@@ -44,6 +46,7 @@ function import_fonts_from_file(_import_grab)
 }
 
 
+// Adjusts the game window automatically
 function auto_window_control()
 {
 	var _dwidth = display_get_width();
@@ -86,6 +89,7 @@ function auto_window_control()
 }
 
 
+// Adjust the game window using parameters
 function manual_window_resizw(_wwidth, _wheight, _xpos, _ypos)
 {
 	var _dwidth = display_get_width();
@@ -137,6 +141,7 @@ function manual_window_resizw(_wwidth, _wheight, _xpos, _ypos)
 }
 
 
+// Toggle fullscreen
 function full_screen_toggle()
 {
 	if (!window_get_fullscreen())
