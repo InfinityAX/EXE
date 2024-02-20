@@ -33,7 +33,7 @@ function import_fonts_from_file(_import_grab)
 		if (main_font == 0)
 		{
 			font_add_enable_aa(false);
-			font_add("Fonts/DEC.ttf", 72, true, false, 32, 128);
+			main_font = font_add("Fonts/DEC.ttf", 72, true, false, 32, 128);
 		}
 		
 		return main_font;
