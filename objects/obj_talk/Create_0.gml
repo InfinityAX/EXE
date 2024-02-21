@@ -1,5 +1,5 @@
 array_dialogue = [[]];
-sprite_to_draw = spr_zero_stationary;
+sprite_to_draw = spr_zero_stationary_right;
 write_text = false;
 d_sprite = false;
 text_to_draw = "";

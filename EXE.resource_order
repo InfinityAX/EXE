@@ -28,7 +28,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"rm_you_are_not_funny","order":2,"path":"rooms/rm_you_are_not_funny/rm_you_are_not_funny.yy",},
-    {"name":"spr_zero_stationary_flicker","order":1,"path":"sprites/spr_zero_stationary_flicker/spr_zero_stationary_flicker.yy",},
+    {"name":"spr_zero_stationary_flicker_right","order":1,"path":"sprites/spr_zero_stationary_flicker_right/spr_zero_stationary_flicker_right.yy",},
     {"name":"obj_selector","order":1,"path":"objects/obj_selector/obj_selector.yy",},
     {"name":"obj_talk","order":2,"path":"objects/obj_talk/obj_talk.yy",},
     {"name":"snd_cheater_detect","order":1,"path":"sounds/snd_cheater_detect/snd_cheater_detect.yy",},

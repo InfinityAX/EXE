@@ -38,7 +38,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
   ],
   "IncludedFiles": [
-    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"DEC.ttf","CopyToMask":-1,"filePath":"datafiles/Fonts555555555555",},
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Zero_Default.kra","CopyToMask":-1,"filePath":"datafiles/Krita Files",},
   ],
   "isEcma": false,
@@ -49,12 +48,12 @@
   "resources": [
     {"id":{"name":"snd_sfx_zero_dialogue","path":"sounds/snd_sfx_zero_dialogue/snd_sfx_zero_dialogue.yy",},},
     {"id":{"name":"rm_you_are_not_funny","path":"rooms/rm_you_are_not_funny/rm_you_are_not_funny.yy",},},
-    {"id":{"name":"spr_zero_stationary_flicker","path":"sprites/spr_zero_stationary_flicker/spr_zero_stationary_flicker.yy",},},
+    {"id":{"name":"spr_zero_stationary_flicker_right","path":"sprites/spr_zero_stationary_flicker_right/spr_zero_stationary_flicker_right.yy",},},
     {"id":{"name":"spr_selected","path":"sprites/spr_selected/spr_selected.yy",},},
     {"id":{"name":"obj_selector","path":"objects/obj_selector/obj_selector.yy",},},
     {"id":{"name":"obj_talk","path":"objects/obj_talk/obj_talk.yy",},},
     {"id":{"name":"snd_cheater_detect","path":"sounds/snd_cheater_detect/snd_cheater_detect.yy",},},
-    {"id":{"name":"spr_zero_stationary","path":"sprites/spr_zero_stationary/spr_zero_stationary.yy",},},
+    {"id":{"name":"spr_zero_stationary_right","path":"sprites/spr_zero_stationary_right/spr_zero_stationary_right.yy",},},
     {"id":{"name":"scr_select_control","path":"scripts/scr_select_control/scr_select_control.yy",},},
     {"id":{"name":"spr_warn","path":"sprites/spr_warn/spr_warn.yy",},},
     {"id":{"name":"obj_hello_motherfucker","path":"objects/obj_hello_motherfucker/obj_hello_motherfucker.yy",},},
