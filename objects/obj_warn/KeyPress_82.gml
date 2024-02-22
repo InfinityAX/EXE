@@ -1,0 +1,1 @@
+auto_window_control();
