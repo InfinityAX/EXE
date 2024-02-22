@@ -1,4 +1,3 @@
-auto_window_control();
 game_started = start_the_game(false);
 text_alpha = 0;
 text_pos = 720;
