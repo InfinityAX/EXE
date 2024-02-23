@@ -101,7 +101,7 @@ function options_toggle_tts()
 		allow_text_to_speech = 1;
 	}
 	
-	ini_write_real("OPTIONS", "SHAKING", allow_text_to_speech);
+	ini_write_real("OPTIONS", "TTS", allow_text_to_speech);
 	ini_close();
 }
 
