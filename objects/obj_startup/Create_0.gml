@@ -1,18 +1,20 @@
-game_started = start_the_game(false);
-text_alpha = 0;
+text_alpha = 1;
 text_pos = 720;
 text_tran_in = false;
 play_cont = "PLAY";
 opt_text_in = false;
 
-// Play aound if not playing
-if (!audio_is_playing(snd_bg_aether))
+// Display continue if a save exists
+if (save_exists())
 {
-	audio_play_sound(snd_bg_aether, 0, true);
+	play_cont = "CONTINUE";
+}
+
+audio_play_main_music();
+
+if (!intro_seen)
+{
+	text_alpha = 0;
 }
 
 alarm_set(0, 2*game_get_speed(gamespeed_fps));
-
-// Testing
-//audio_stop_all();
-//room_goto(rm_you_are_not_funny);

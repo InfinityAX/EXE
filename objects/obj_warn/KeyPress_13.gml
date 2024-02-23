@@ -2,8 +2,13 @@ if (state == 0)
 {
 	options_set_flash(0);
 	options_set_shake(0);
-	audio_stop_all();
-	audio_play_sound(snd_tts_warning, 1, false);
+	output_text = "The game contains a host of sensitive topics, including suicide.\nIf you are sensitive to these topics, you can close the game now\nby pressing ESCAPE. Otherwise, press ENTER to proceed.\nThank you for supporting AX Media.";
+	play_tts(snd_tts_warning);
+	state++;
 }
-
-state++;
+else
+{
+	audio_stop_all();
+	options_set_seen_warn();
+	room_goto(rm_startup);
+}

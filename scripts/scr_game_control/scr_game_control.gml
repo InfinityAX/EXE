@@ -1,25 +1,18 @@
-// Game started state
-function start_the_game(_reset)
+globalvar intro_seen;
+
+
+// Sets the globalvar
+function start_the_game()
 {
-	static game_start = false;
-	
-	if (_reset == true)
-	{
-		game_start = false;
-		return false;
-	}
-	else
-	{
-		if (game_start == false)
-		{
-			game_start = true;
-			return false;
-		}
-		else
-		{
-			return true;
-		}
-	}
+	intro_seen = false;
+}
+
+
+// Reset game
+function reset_the_game()
+{
+	file_delete(userdata_save_location);
+	room_goto(rm_warn);
 }
 
 

@@ -1,5 +1,5 @@
 // Title text transition control
-if (!game_started)
+if (!intro_seen)
 {
 	if (text_tran_in)
 	{
@@ -22,8 +22,4 @@ if (!game_started)
 			instance_create_layer(0 , 0 , "Instances" , obj_selector);
 		}
 	}
-}
-else
-{
-	text_alpha = 1;
 }
