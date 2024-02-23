@@ -6,7 +6,7 @@ globalvar text_to_speech;
 // Play and adjust the main game music
 function audio_play_main_music()
 {
-	gain = 0.5;
+	gain = 0.25;
 	
 	if (!audio_is_playing(snd_bg_aether))
 	{
@@ -49,4 +49,18 @@ function play_tts(_tts_audio)
 	}
 	
 	text_to_speech = audio_play_sound(_tts_audio, 100, false);
+}
+
+
+// Play SFX
+function play_sfx(_sfx_audio)
+{
+	gain = 1;
+	
+	if (allow_text_to_speech)
+	{
+		gain = 0.5
+	}
+	
+	audio_play_sound(_sfx_audio, 2, false, gain);
 }
