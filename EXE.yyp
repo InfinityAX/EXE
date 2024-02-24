@@ -42,6 +42,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Start Menu","folderPath":"folders/Sprites/Start Menu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Transitions","folderPath":"folders/Objects/Transitions.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"GitHub.kra","CopyToMask":-1,"filePath":"datafiles/Krita Files",},
@@ -91,6 +92,7 @@
     {"id":{"name":"scr_game_control","path":"scripts/scr_game_control/scr_game_control.yy",},},
     {"id":{"name":"obj_alert","path":"objects/obj_alert/obj_alert.yy",},},
     {"id":{"name":"snd_sfx_exit","path":"sounds/snd_sfx_exit/snd_sfx_exit.yy",},},
+    {"id":{"name":"obj_default_room_in","path":"objects/obj_default_room_in/obj_default_room_in.yy",},},
     {"id":{"name":"spr_selector","path":"sprites/spr_selector/spr_selector.yy",},},
     {"id":{"name":"obj_startup","path":"objects/obj_startup/obj_startup.yy",},},
     {"id":{"name":"snd_tts_accessibility","path":"sounds/snd_tts_accessibility/snd_tts_accessibility.yy",},},

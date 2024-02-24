@@ -1,4 +1,4 @@
-text_alpha = 1;
+text_alpha = 0;
 text_pos = 720;
 text_tran_in = false;
 play_cont = "PLAY";
@@ -14,7 +14,12 @@ audio_play_main_music();
 
 if (!intro_seen)
 {
-	text_alpha = 0;
+	alarm_set(0, 2*game_get_speed(gamespeed_fps));
+}
+else
+{
+	instance_create_layer(0 , 0 , "Instances" , obj_default_room_in);
+	text_alpha = 1;
+	text_pos = 0;
 }
 
-alarm_set(0, 2*game_get_speed(gamespeed_fps));

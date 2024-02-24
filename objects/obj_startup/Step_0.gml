@@ -23,3 +23,11 @@ if (!intro_seen)
 		}
 	}
 }
+else
+{
+	if (!opt_text_in and instance_exists(obj_default_room_in))
+	{
+		opt_text_in = true;
+		instance_create_layer(0 , 0 , "Instances" , obj_selector);
+	}
+}
