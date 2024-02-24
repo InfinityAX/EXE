@@ -18,7 +18,9 @@
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
     {"name":"Dialogue","order":2,"path":"folders/Sounds/Dialogue.yy",},
+    {"name":"Selector","order":4,"path":"folders/Sounds/Selector.yy",},
     {"name":"TTS","order":3,"path":"folders/Sounds/TTS.yy",},
+    {"name":"Main Menu","order":2,"path":"folders/Sounds/TTS/Main Menu.yy",},
     {"name":"Warning","order":1,"path":"folders/Sounds/TTS/Warning.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Anticheat","order":2,"path":"folders/Sprites/Anticheat.yy",},
@@ -29,8 +31,6 @@
     {"name":"Start Menu","order":1,"path":"folders/Sprites/Start Menu.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Selector","order":4,"path":"folders/Sounds/Selector.yy",},
-    {"name":"Main Menu","order":2,"path":"folders/Sounds/TTS/Main Menu.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"scr_save","order":4,"path":"scripts/scr_save/scr_save.yy",},

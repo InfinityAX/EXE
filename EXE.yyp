@@ -29,7 +29,9 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shaders","folderPath":"folders/Shaders.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Dialogue","folderPath":"folders/Sounds/Dialogue.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Selector","folderPath":"folders/Sounds/Selector.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"TTS","folderPath":"folders/Sounds/TTS.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Main Menu","folderPath":"folders/Sounds/TTS/Main Menu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Warning","folderPath":"folders/Sounds/TTS/Warning.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Anticheat","folderPath":"folders/Sprites/Anticheat.yy",},
@@ -40,8 +42,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Start Menu","folderPath":"folders/Sprites/Start Menu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Selector","folderPath":"folders/Sounds/Selector.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Main Menu","folderPath":"folders/Sounds/TTS/Main Menu.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"GitHub.kra","CopyToMask":-1,"filePath":"datafiles/Krita Files",},

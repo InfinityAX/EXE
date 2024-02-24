@@ -10,7 +10,7 @@
   "bitRate": 512,
   "compression": 2,
   "conversionMode": 0,
-  "duration": 13.818667,
+  "duration": 12.512667,
   "parent": {
     "name": "Warning",
     "path": "folders/Sounds/TTS/Warning.yy",
