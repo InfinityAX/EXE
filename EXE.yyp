@@ -19,6 +19,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Anticheat","folderPath":"folders/Objects/Anticheat.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"FileManager","folderPath":"folders/Objects/FileManager.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Startup","folderPath":"folders/Objects/Startup.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Transitions","folderPath":"folders/Objects/Transitions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Paths","folderPath":"folders/Paths.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
@@ -42,7 +43,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Start Menu","folderPath":"folders/Sprites/Start Menu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Transitions","folderPath":"folders/Objects/Transitions.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"GitHub.kra","CopyToMask":-1,"filePath":"datafiles/Krita Files",},

@@ -8,6 +8,7 @@
     {"name":"Anticheat","order":3,"path":"folders/Objects/Anticheat.yy",},
     {"name":"FileManager","order":6,"path":"folders/Objects/FileManager.yy",},
     {"name":"Startup","order":1,"path":"folders/Objects/Startup.yy",},
+    {"name":"Transitions","order":8,"path":"folders/Objects/Transitions.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
@@ -31,7 +32,6 @@
     {"name":"Start Menu","order":1,"path":"folders/Sprites/Start Menu.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Transitions","order":8,"path":"folders/Objects/Transitions.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"scr_save","order":4,"path":"scripts/scr_save/scr_save.yy",},
